@@ -1,0 +1,4 @@
+En la carpeta DATOS se encuentran los ficheros de datos necesarios para la practica.
+Para ejecutar la practica, podemos lanzar el archivo programa dentro del directorio actual, o ejecutar el script ubicado en la carpeta FUENTES del directorio raiz.
+Los archivos que empiezan por arff_ son una libreria externa utilizada para la lectura de los archivos ARFF.
+El archivo principal.cpp es donde se implementan los algoritmos.

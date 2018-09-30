@@ -1,0 +1,5 @@
+
+//Compilamos con las librerias
+g++ prueba.cpp libarff.a libgtest.a 
+
+y se ejecuta normal
